@@ -1,0 +1,3 @@
+C:/CppRussia/git/CppRussia/hello/build/CMakeFiles/hello.dir
+C:/CppRussia/git/CppRussia/hello/build/CMakeFiles/ALL_BUILD.dir
+C:/CppRussia/git/CppRussia/hello/build/CMakeFiles/ZERO_CHECK.dir
